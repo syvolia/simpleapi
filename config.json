@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://syvolia:ymbQzsUs24RKE0lG@cluster0-2z8tr.mongodb.net/test?retryWrites=true&w=majority",
+    "secret": "syvolia1994"
+}
